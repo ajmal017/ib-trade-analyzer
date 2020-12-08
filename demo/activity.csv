@@ -1,0 +1,507 @@
+﻿Statement,Header,Field Name,Field Value
+Statement,Data,BrokerName,Interactive Brokers
+Statement,Data,BrokerAddress,
+Statement,Data,Title,Activity Statement
+Statement,Data,Period,"January 2, 2020 - December 7, 2020"
+Statement,Data,WhenGenerated,"2020-12-08, 08:30:05 EST"
+Account Information,Header,Field Name,Field Value
+Account Information,Data,Name,Deyan N Ginev
+Account Information,Data,Account,U2056711
+Account Information,Data,Accounts Included,"U2056711, U2056711F"
+Account Information,Data,Account Type,Individual
+Account Information,Data,Customer Type,Individual
+Account Information,Data,Account Capabilities,Margin
+Account Information,Data,Base Currency,USD
+Net Asset Value,Header,Asset Class,Prior Total,Current Long,Current Short,Current Total,Change
+Net Asset Value,Data,Cash ,11108.265826001,278.553375975,0,278.553375975,-10829.712450026
+Net Asset Value,Data,Stock,190123.67,362435.3445,0,362435.3445,172311.6745
+Net Asset Value,Data,Options,361.8,17582.58,0,17582.58,17220.78
+Net Asset Value,Data,Interest Accruals,3.33,0,0,0,-3.33
+Net Asset Value,Data,Dividend Accruals,0,11.62,0,11.62,11.62
+Net Asset Value,Data,Total,201597.065826001,380308.097875975,0,380308.097875975,178711.032049974
+Net Asset Value,Header,Time Weighted Rate of Return
+Net Asset Value,Data,43.9016519%
+Change in NAV,Header,Field Name,Field Value
+Change in NAV,Data,Starting Value,201597.065826001
+Change in NAV,Data,Mark-to-Market,133914.03590034
+Change in NAV,Data,Deposits & Withdrawals,43900.75
+Change in NAV,Data,Dividends,1268.7
+Change in NAV,Data,Withholding Tax,-126.79
+Change in NAV,Data,Change in Dividend Accruals,11.62
+Change in NAV,Data,Interest,4.51
+Change in NAV,Data,Change in Interest Accruals,-3.33
+Change in NAV,Data,Commissions,-258.41985047
+Change in NAV,Data,Sales Tax,-0.044
+Change in NAV,Data,Ending Value,380308.097875975
+Mark-to-Market Performance Summary,Header,Asset Category,Symbol,Prior Quantity,Current Quantity,Prior Price,Current Price,Mark-to-Market P/L Position,Mark-to-Market P/L Transaction,Mark-to-Market P/L Commissions,Mark-to-Market P/L Other,Mark-to-Market P/L Total,Code
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,AAPL,1,0,293.6500,--,-27.28,-8.55,-2.0116469,0.69,-37.1516469,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,AAWW,0,0,--,--,1112,124.92,-5.29207383,0,1231.62792617,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,AFYA,0,600,--,24.3600,954,228,-3,0,1179,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,AMAT,1,0,61.0400,--,-4.87,-1.87,-0.54431903,0.19,-7.09431903,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,AMSz,0,630,--,23.3400,1813.632575,-116.62231,-33.029,0,1663.981265,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EAF,600,1291,11.6200,9.6700,-270.42,27.63,-7.32964075,82.72,-167.39964075,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,FCAU,3505,4505,14.6900,16.2900,15718,221.51,-35.01635462,0,15904.49364538,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,KHC,401,0,32.1300,--,-2105.25,-59.348,-2.28962066,0,-2166.88762066,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,KR,0,0,--,--,1657,176.44,-9.73986411,0,1823.70013589,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,LBTYA,0,0,--,--,-1473,-14.53,-3.14443797,0,-1490.67443797,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,LHAd,0,0,--,--,20.998704,-107.686224,-13.0496,0,-99.73712,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,MU,600,0,53.7800,--,-4030,-79.8,-11.89198482,0,-4121.69198482,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,RKT,0,500,--,19.7000,-275,-63.3,-2.5,0,-340.8,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,STNE,1700,2059,39.8900,73.5000,84360.91,861.325,-16.51507144,0,85205.71992856,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,SYF,0,500,--,32.5700,7089,6.62,-4.56357024,178.2,7269.25642976,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,TEGd,0,0,--,--,738.3635,-20.4855,-44.6207052,0,673.2572948,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,TMQ,2104,4004,2.6000,2.0100,-1291.36,-27.89,-9.5,0,-1328.75,
+Mark-to-Market Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,WRK,300,1346,42.9100,44.5200,18378.58,-16.84,-16.4991609,880.11,19225.3508391,
+Mark-to-Market Performance Summary,Data,Total,,,,,,122365.304779,1129.522966,-220.53705047,1141.91,124416.20069453,
+Mark-to-Market Performance Summary,Data,Equity and Index Options - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,MU 21JAN22 47.0 C,0,6,--,29.2148,10495.08,-226.2,-1.8828,0,10266.9972,
+Mark-to-Market Performance Summary,Data,Equity and Index Options - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,TEVA 15JAN21 22.0 C,15,15,0.2412,0.0358,-308.1,0,0,0,-308.1,
+Mark-to-Market Performance Summary,Data,Total,,,,,,10186.98,-226.2,-1.8828,0,9958.8972,
+Mark-to-Market Performance Summary,Data,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,0,153.1347,--,1.1225,319.81598474,-6.439049,-6,0,307.37693574,
+Mark-to-Market Performance Summary,Data,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,0,0,1.1213,1.2109,78.9319386,0,0,0,78.9319386,
+Mark-to-Market Performance Summary,Data,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,11108.265826001,106.659675225,1.0000,1.0000,0,66.119281,-30,0,36.119281,
+Mark-to-Market Performance Summary,Data,Total,,,,,,398.74792334,59.680232,-36,0,422.42815534,
+Mark-to-Market Performance Summary,Data,Total (All Assets),,,,,,132951.03270234,963.003198,-258.41985047,1141.91,134797.52604987,
+Mark-to-Market Performance Summary,Data,Broker Interest Paid and Received,,,,,,,,,,4.51,
+Total P/L for Statement Period,,,,,,,,,,,,134802.03604987,
+Realized & Unrealized Performance Summary,Header,Asset Category,Symbol,Cost Adj.,Realized S/T Profit,Realized S/T Loss,Realized L/T Profit,Realized L/T Loss,Realized Total,Unrealized S/T Profit,Unrealized S/T Loss,Unrealized L/T Profit,Unrealized L/T Loss,Unrealized Total,Total,Code
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,AAPL,0,0,-1.80582345,40.42417655,0,38.6183531,0,0,0,0,0,38.6183531,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,AAWW,0,1231.62792617,0,0,0,1231.62792617,0,0,0,0,0,1231.62792617,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,AFYA,0,0,0,0,0,0,1179,0,0,0,1179,1179,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,AMAT,0,0,0,19.95068097,0,19.95068097,0,0,0,0,0,19.95068097,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,AMSz,0,0,0,0,0,0,1704.51625,0,0,0,1704.51625,1704.51625,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EAF,0,0,-825.01321275,0,0,-825.01321275,1391.21,-701,0,-473.5,216.71,-608.30321275,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,FCAU,0,0,0,0,-14850.97108113,-14850.97108113,25200.4,0,1482.8355,0,26683.2355,11832.26441887,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,KHC,0,136.97804456,-547.27566522,0,0,-410.29762066,0,0,0,0,0,-410.29762066,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,KR,0,1823.70013589,0,0,0,1823.70013589,0,0,0,0,0,1823.70013589,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,LBTYA,0,0,-1490.67443797,0,0,-1490.67443797,0,0,0,0,0,-1490.67443797,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,LHAd,0,0,-95.41896,0,0,-95.41896,0,0,0,0,0,-95.41896,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,MU,0,4793.86585478,-495.5978396,0,0,4298.26801518,0,0,0,0,0,4298.26801518,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,RKT,0,0,0,0,0,0,0,-340.8,0,0,-340.8,-340.8,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,STNE,0,1743.23372116,-1562.13651,9228.9147754,-1233.212058,8176.79992856,64263.785,0,27597.885,0,91861.67,100038.46992856,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,SYF,0,547.45642976,0,0,0,547.45642976,6543.6,0,0,0,6543.6,7091.05642976,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,TEGd,0,721.5695384,-45.4320436,0,0,676.1374948,0,0,0,0,0,676.1374948,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,TMQ,0,0,0,0,0,0,340.11,-427.5,0,-1195.512512,-1282.902512,-1282.902512,
+Realized & Unrealized Performance Summary,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,WRK,0,53.01335189,-2798.40251279,0,0,-2745.3891609,22996.63,0,0,0,22996.63,20251.2408391,
+Realized & Unrealized Performance Summary,Data,Total,,0,11051.44500261,-7861.75700538,9289.28963292,-16084.18313913,-3605.20550898,123619.25125,-1469.3,29080.7205,-1669.012512,149561.659238,145956.45372902,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,MU 21JAN22 47.0 C,0,0,0,0,0,0,10266.9972,0,0,0,10266.9972,10266.9972,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,TEVA 15JAN21 22.0 C,0,0,0,0,0,0,0,0,0,-6023.612,-6023.612,-6023.612,
+Realized & Unrealized Performance Summary,Data,Total,,0,0,0,0,0,0,10266.9972,0,0,-6023.612,4243.3852,4243.3852,
+Realized & Unrealized Performance Summary,Data,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,0,0.397061,-13.46944,0,0,-13.072379,3.752389,0,0,0,3.752389,-9.31999,
+Realized & Unrealized Performance Summary,Data,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,0,367.866509,-37.69063,0,0,330.175879,0,0,0,0,0,330.175879,
+Realized & Unrealized Performance Summary,Data,Total,,0,368.26357,-51.16007,0,0,317.1035,3.752389,0,0,0,3.752389,320.855889,
+Realized & Unrealized Performance Summary,Data,Total (All Assets),,0,11419.70857261,-7912.91707538,9289.28963292,-16084.18313913,-3288.10200898,133890.000839,-1469.3,29080.7205,-7692.624512,153808.796827,150520.69481802,
+Cash Report,Header,Currency Summary,Currency,Total,Securities,Futures,IB-UKL,
+Cash Report,Data,Starting Cash,Base Currency Summary,11108.265826001,11106.595826001,0,1.67,
+Cash Report,Data,Commissions,Base Currency Summary,-258.41985047,-258.41985047,0,0,
+Cash Report,Data,Deposits,Base Currency Summary,43900.75,43900.75,0,0,
+Cash Report,Data,Dividends,Base Currency Summary,1268.7,1268.7,0,0,
+Cash Report,Data,Broker Interest Paid and Received,Base Currency Summary,4.51,4.51,0,0,
+Cash Report,Data,Net Trades (Sales),Base Currency Summary,283599.90390551,283599.90390551,0,0,
+Cash Report,Data,Net Trades (Purchase),Base Currency Summary,-339515.4981634,-339515.4981634,0,0,
+Cash Report,Data,Withholding Tax,Base Currency Summary,-126.79,-126.79,0,0,
+Cash Report,Data,Sales Tax,USD,-0.044,-0.044,0,0,
+Cash Report,Data,Cash FX Translation Gain/Loss,Base Currency Summary,297.17565834,297.17565834,0,0,
+Cash Report,Data,Ending Cash,Base Currency Summary,278.553375975,276.883375975,0,1.67,
+Cash Report,Data,Ending Settled Cash,Base Currency Summary,278.553375975,276.883375975,0,1.67,
+Cash Report,Data,Starting Cash,CHF,0,0,0,0,
+Cash Report,Data,Commissions,CHF,-30,-30,0,0,
+Cash Report,Data,Net Trades (Sales),CHF,13338.8347,13338.8347,0,0,
+Cash Report,Data,Net Trades (Purchase),CHF,-13155.7,-13155.7,0,0,
+Cash Report,Data,Ending Cash,CHF,153.1347,153.1347,0,0,
+Cash Report,Data,Ending Settled Cash,CHF,153.1347,153.1347,0,0,
+Cash Report,Data,Starting Cash,EUR,0,0,0,0,
+Cash Report,Data,Commissions,EUR,-52.894,-52.894,0,0,
+Cash Report,Data,Deposits,EUR,40000,40000,0,0,
+Cash Report,Data,Net Trades (Sales),EUR,17917,17917,0,0,
+Cash Report,Data,Net Trades (Purchase),EUR,-57864.106,-57864.106,0,0,
+Cash Report,Data,Ending Cash,EUR,0,0,0,0,
+Cash Report,Data,Ending Settled Cash,EUR,0,0,0,0,
+Cash Report,Data,Starting Cash,USD,11108.265826001,11106.595826001,0,1.67,
+Cash Report,Data,Commissions,USD,-167.72054527,-167.72054527,0,0,
+Cash Report,Data,Dividends,USD,1268.7,1268.7,0,0,
+Cash Report,Data,Broker Interest Paid and Received,USD,4.51,4.51,0,0,
+Cash Report,Data,Net Trades (Sales),USD,249460.3987545,249460.3987545,0,0,
+Cash Report,Data,Net Trades (Purchase),USD,-261440.66036,-261440.66036,0,0,
+Cash Report,Data,Withholding Tax,USD,-126.79,-126.79,0,0,
+Cash Report,Data,Sales Tax,USD,-0.044,-0.044,0,0,
+Cash Report,Data,Ending Cash,USD,106.659675225,104.989675225,0,1.67,
+Cash Report,Data,Ending Settled Cash,USD,106.659675225,104.989675225,0,1.67,
+Open Positions,Header,DataDiscriminator,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value,Unrealized P/L,Unrealized P/L %,Code
+Open Positions,Data,Summary,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,AMSz,630,1,20.92968254,13185.7,23.34,14704.2,1518.5,11.52,SY
+Open Positions,Total,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,,,,,13185.7,,14704.2,1518.5,,
+Open Positions,Total,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,,,,,14800.94825,,16505.4645,1704.51625,,
+Open Positions,Data,Summary,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AFYA,600,1,22.395,13437,24.36,14616,1179,8.77,
+Open Positions,Data,Summary,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,1291,1,9.502137878,12267.26,9.67,12483.97,216.71,1.77,
+Open Positions,Data,Summary,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,4505,1,10.366973252,46703.2145,16.29,73386.45,26683.2355,57.13,
+Open Positions,Data,Summary,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,RKT,500,1,20.3816,10190.8,19.7,9850,-340.8,-3.34,SY
+Open Positions,Data,Summary,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,2059,1,28.885298689,59474.83,73.5,151336.5,91861.67,154.45,
+Open Positions,Data,Summary,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,SYF,500,1,19.4828,9741.4,32.57,16285,6543.6,67.17,
+Open Positions,Data,Summary,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,TMQ,4004,1,2.330405223,9330.942512,2.01,8048.04,-1282.902512,-13.75,SY
+Open Positions,Data,Summary,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,1346,1,27.434836553,36927.29,44.52,59923.92,22996.63,62.28,
+Open Positions,Total,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,,,,,198072.737012,,345929.88,147857.142988,,
+Open Positions,Total,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,,,,,212873.685262,,362435.3445,149561.659238,,
+Open Positions,Header,DataDiscriminator,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value,Unrealized P/L,Unrealized P/L %,Code
+Open Positions,Data,Summary,Equity and Index Options - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,MU 21JAN22 47.0 C,6,100,12.103138,7261.8828,29.2148,17528.88,10266.9972,141.38,
+Open Positions,Data,Summary,Equity and Index Options - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,TEVA 15JAN21 22.0 C,15,100,4.051541333,6077.312,0.0358,53.7,-6023.612,-99.12,
+Open Positions,Total,,Equity and Index Options - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,,,,,13339.1948,,17582.58,4243.3852,,
+Forex Balances,Header,Asset Category,Currency,Description,Quantity,Cost Price,Cost Basis in USD,Close Price,Value in USD,Unrealized P/L in USD,Code
+Forex Balances,Data,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,CHF,153.1347,1.097996156,-168.141312,1.1225,171.893701,3.752389,
+Forex Balances,Data,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,USD,106.659675225,1,-106.659675225,1,106.659675225,0,
+Forex Balances,Data,Total,,,,,-274.800987225,,278.553376225,3.752389,
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,Realized P/L %,MTM P/L,Code
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,AMSz,"2020-10-22, 04:36:43",200,21.42,21.16,-4284,-10,4294,0,0,-52,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,AMSz,"2020-10-22, 05:03:26",300,21.43,21.16,-6429,-10,6439,0,0,-81,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,AMSz,"2020-10-28, 11:11:48",130,18.79,19,-2442.7,-10,2452.7,0,0,27.3,O
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,AMSz,,630,,,-13155.7,-30,13185.7,0,0.00,-105.7,
+Trades,Total,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,,,,,,-13155.7,-30,13185.7,0,,-105.7, 
+Trades,Total,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,,,,,,-14491.75731,-33.029,14524.78631,0,,-116.62231, 
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,LHAd,"2020-03-31, 04:04:27",240,8.89,8.562,-2133.6,-4,2137.6,0,0,-78.72,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,LHAd,"2020-04-06, 08:46:18",-250,8.572,8.652,2143,-4,-2137.6,-84.32,-3.944610778,-20,C;O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,LHAd,"2020-04-06, 08:47:22",10,8.58,8.652,-85.8,-4,85.72,-4.08,-4.759682688,0.72,C
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,LHAd,,0,,,-76.4,-12,85.72,-88.4,-4.31,-98,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,TEGd,"2020-03-23, 05:25:55",100,16.51,16.12,-1651,-4,1655,0,0,-39,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,TEGd,"2020-03-25, 04:25:02",200,18.3,18.45,-3660,-4,3664,0,0,30,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,TEGd,"2020-03-26, 08:03:41",100,17.36,18.16,-1736,-4,1740,0,0,80,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,TEGd,"2020-03-27, 04:30:28",100,17.6,17.15,-1760,-4,1764,0,0,-45,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,TEGd,"2020-03-27, 11:31:23",200,17.2,17.15,-3440,-4,3444,0,0,-10,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,TEGd,"2020-04-06, 03:35:02",-100,18.96,18.44,1896,-4,-1655,237,14.320241692,52,C
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,TEGd,"2020-04-16, 03:19:05",100,18.78,18.61,-1878,-4,1882,0,0,-17,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,TEGd,"2020-04-21, 05:03:41",-700,18.42,18.52,12894,-12.894,-12494,387.106,3.098335201,-70,C;P
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,TEGd,,0,,,665,-40.894,0,624.106,4.41,-19,
+Trades,Total,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,EUR,,,,,,588.6,-52.894,85.72,535.706,,-117, 
+Trades,Total,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,,,,,,416.06582,-57.6703052,314.849188,580.7185348,,-128.171724, 
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AAPL,"2020-03-16, 11:31:59",1,258.42,242.21,-258.42,-1,259.42,0,0,-16.21,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AAPL,"2020-03-31, 05:00:54",-2,258.12,254.29,516.24,-1.011646904,-476.61,38.618354,8.102715847,7.66,C
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AAPL,,-1,,,257.82,-2.011646904,-217.19,38.618354,8.10,-8.55,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AAWW,"2020-02-05, 10:19:45",100,23.9,24.81,-2390,-1,2391,0,0,91,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AAWW,"2020-02-05, 10:23:37",300,24.03,24.81,-7209,-1.5,7210.5,0,0,234,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AAWW,"2020-02-18, 10:07:45",-99,27.15,27.59,2687.85,-1.071182485,-2367.09,319.688818,13.505562442,-43.56,C
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AAWW,"2020-02-18, 10:09:11",-301,27.07,27.59,8148.07,-1.720891347,-7234.41,911.939109,12.605576806,-156.52,C
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AAWW,,0,,,1236.92,-5.292073832,0,1231.627927,12.83,124.92,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AFYA,"2020-05-18, 10:07:38",300,20.82,20.06,-6246,-1.5,6247.5,0,0,-228,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AFYA,"2020-09-01, 11:39:27",300,23.96,25.48,-7188,-1.5,7189.5,0,0,456,O;P
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AFYA,,600,,,-13434,-3,13437,0,0.00,228,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AMAT,"2020-03-10, 08:52:36",-1,54.3,56.17,54.3,-0.54431903,-33.805,19.950681,59.016953113,-1.87,C
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AMAT,,-1,,,54.3,-0.54431903,-33.805,19.950681,59.02,-1.87,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,"2020-01-06, 15:50:48",200,11.215,11.24,-2243,-1,2244,0,0,5,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,"2020-03-31, 10:36:07",150,7.9382,8.12,-1190.73,-1,1191.73,0,0,27.27,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,"2020-04-01, 13:41:10",100,7.54,7.38,-754,-1,755,0,0,-16,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,"2020-04-09, 10:12:02",-250,9.03,8.71,2257.5,-1.32964075,-3081.183572,-825.013212,-26.775853912,80,C;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,"2020-05-01, 14:46:59",200,7.84,7.97,-1568,-1,1569,0,0,26,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,"2020-05-07, 07:26:43",91,6.8,6.79,-618.8,-1,619.8,0,0,-0.91,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,"2020-06-12, 09:50:23",200,8.18865,7.72,-1637.73,-1,1638.73,0,0,-93.73,O;P
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,,691,,,-5754.76,-7.32964075,4937.076428,-825.013212,-26.78,27.63,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-03-06, 10:32:37",500,11.97,11.83,-5985,-2.5,5987.5,0,0,-70,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-03-10, 04:17:47",100,10.76,11,-1076,-1,1077,0,0,24,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-03-13, 10:05:15",200,9.806,10.03,-1961.2,-1,1962.2,0,0,44.8,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-03-18, 15:12:47",100,6.61,6.91,-661,-1,662,0,0,30,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-03-20, 07:24:21",40,6.27,6.35,-250.8,-1,251.8,0,0,3.2,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-03-23, 05:40:02",140,6.36,6.35,-890.4,-1,891.4,0,0,-1.4,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-03-25, 10:37:38",200,6.9865,7.43,-1397.3,-1,1398.3,0,0,88.7,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-03-25, 15:52:31",-200,7.41,7.43,1482,-1.0565522,-3246.598729,-1765.65528,-54.384770875,-4,C
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-03-26, 04:19:29",200,7.27,7.73,-1454,-1,1455,0,0,92,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-03-30, 15:59:15",100,6.965,6.97,-696.5,-1,697.5,0,0,0.5,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-04-16, 04:15:03",100,7.87,7.68,-787,-1,788,0,0,-19,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-04-20, 10:08:48",-600,8.062,7.94,4837.2,-3.17830212,-9890.585498,-5056.5638,-51.125019859,73.2,C
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-05-14, 10:34:35",620,7.66983871,7.8,-4755.3,-3.1,4758.4,0,0,80.7,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-06-08, 09:52:19",-800,10.7310125,10.77,8584.81,-4.284924301,-13564.52,-4983.994925,-36.74287719,-31.19,C;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-06-11, 09:47:57",400,9.27,8.81,-3708,-2,3710,0,0,-184,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-06-11, 16:37:48",400,9,8.81,-3600,-2,3602,0,0,-76,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-10-06, 10:21:51","-1,000",12.56,12.33,12560,-5.396576,-15599.3605,-3044.757076,-19.518473696,230,C
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,"2020-10-28, 04:18:37",500,12.4,12.28,-6200,-2.5,6202.5,0,0,-60,O
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,,1000,,,-5958.49,-35.016354621,-8857.464727,-14850.971081,-35.11,221.51,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,KHC,"2020-02-14, 12:56:57",-401,26.732,26.88,10719.532,-2.289620657,-11127.54,-410.297621,-3.687226656,-59.348,C
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,KHC,,-401,,,10719.532,-2.289620657,-11127.54,-410.297621,-3.69,-59.348,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,KR,"2020-02-18, 06:07:19",400,30.08255,29.71,-12033.02,-2,12035.02,0,0,-149.02,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,KR,"2020-02-18, 10:10:05",300,30.56,29.71,-9168,-1.5,9169.5,0,0,-255,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,KR,"2020-03-06, 10:00:44",-700,32.545414286,32.04,22781.79,-4.086777559,-21204.52,1573.183221,7.419093764,353.79,C;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,KR,"2020-03-26, 12:35:33",200,27.987,29,-5597.4,-1,5598.4,0,0,202.6,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,KR,"2020-03-27, 11:52:52",-200,29.25035,29.13,5850.07,-1.153086547,-5598.4,250.516914,4.474794834,24.07,C;P
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,KR,,0,,,1833.44,-9.739864106,0,1823.700135,6.80,176.44,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,LBTYA,"2020-01-15, 13:38:04",300,21.359333333,21.39,-6407.8,-1.5,6409.3,0,0,9.2,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,LBTYA,"2020-03-18, 15:10:34",-300,16.4009,16.48,4920.27,-1.644437967,-6409.3,-1490.674438,-23.257991325,-23.73,C;P
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,LBTYA,,0,,,-1487.53,-3.144437967,0,-1490.674438,-23.26,-14.53,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,MU,"2020-03-09, 04:53:17",-400,47.55,45.97,19020,-2.467942,-15074.54,3942.992058,26.156632693,632,C
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,MU,"2020-03-09, 05:11:50",500,47.75,45.97,-23875,-2.5,23877.5,0,0,-890,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,MU,"2020-04-09, 11:06:59",-100,48.302,46.13,4830.2,-1.11864742,-4207.5,621.581353,14.773175354,217.2,C
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,MU,"2020-04-20, 11:57:03",100,44.91,43.4,-4491,-1,4492,0,0,-151,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,MU,"2020-05-06, 15:58:58",-100,46.12,46.08,4612,-1.1138252,-4566,44.886175,0.983052453,4,C
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,MU,"2020-05-07, 12:49:04",-600,46.77,46.59,28062,-3.6915702,-28369.5,-311.19157,-1.096922998,108,C;P
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,MU,,-600,,,28158.2,-11.89198482,-23848.04,4298.268016,8.23,-79.8,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,RKT,"2020-11-27, 12:12:30",500,20.3766,20.25,-10188.3,-2.5,10190.8,0,0,-63.3,O;P
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,RKT,,500,,,-10188.3,-2.5,10190.8,0,0.00,-63.3,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-03-03, 08:48:03",-200,43.54725,44.29,8709.45,-1.216278845,-6965,1743.233721,25.028481278,-148.55,C;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-03-06, 10:19:45",300,39.112383333,40,-11733.715,-1.5,11735.215,0,0,266.285,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-03-13, 09:24:37",100,33.01,32.5,-3301,-1,3302,0,0,-51,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-03-18, 15:11:34",200,20.27,21.74,-4054,-1,4055,0,0,294,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-03-25, 15:54:12",-200,25.5,25.53,5100,-1.13651,-6661,-1562.13651,-23.451981835,-6,C;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-03-27, 12:04:27",200,24.32,24.44,-4864,-1,4865,0,0,24,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-04-13, 13:59:26",100,23.01,23.01,-2301,-1,2302,0,0,0,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-04-13, 13:59:52",100,22.97,23.01,-2297,-1,2298,0,0,4,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-05-12, 09:32:36",-300,26.6,23.8,7980,-1.712058,-9211.5,-1233.212058,-13.387744211,840,C;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-05-12, 09:57:56",100,25.25,23.8,-2525,-1,2526,0,0,-145,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-05-12, 11:33:13",100,25.51,23.8,-2551,-1,2552,0,0,-171,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-05-12, 12:05:33",200,25,23.8,-5000,-1,5001,0,0,-240,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-07-23, 16:14:45",-41,43,43.01,1763,-1.0438413,-1205.605,556.351158,46.147051314,-0.41,C
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,"2020-10-06, 10:21:13",-300,55.91,55.26,16773,-1.9063833,-8098.53,8672.563615,107.088121116,195,C;P
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,STNE,,359,,,1698.735,-16.515071445,6494.58,8176.799926,25.44,861.325,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,SYF,"2020-05-07, 07:33:10",500,17.89,17.99,-8945,-2.5,8947.5,0,0,50,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,SYF,"2020-07-23, 16:17:24",-100,23.3802,23.39,2338.02,-1.063570242,-1789.5,547.45643,30.592703548,-0.98,C;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,SYF,"2020-09-10, 08:35:07",100,25.824,25.4,-2582.4,-1,2583.4,0,0,-42.4,O;P
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,SYF,,500,,,-9189.38,-4.563570242,9741.4,547.45643,30.59,6.62,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,TMQ,"2020-01-17, 12:01:40",900,2.48,2.51,-2232,-4.5,2236.5,0,0,27,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,TMQ,"2020-05-01, 13:46:51",500,1.66,1.61,-830,-2.5,832.5,0,0,-25,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,TMQ,"2020-05-01, 13:47:05",500,1.66978,1.61,-834.89,-2.5,837.39,0,0,-29.89,O;P
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,TMQ,,1900,,,-3896.89,-9.5,3906.39,0,0.00,-27.89,
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-03-04, 14:58:45",300,33.25,33.59,-9975,-1.5,9976.5,0,0,102,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-03-10, 08:51:31",200,28.51,28.96,-5702,-1,5703,0,0,90,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-04-01, 13:41:53",80,27.01,26.71,-2160.8,-1,2161.8,0,0,-24,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-04-08, 12:22:21",-80,30,30.69,2400,-1.06256,-2845.6,-446.66256,-15.69660388,-55.2,C
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-04-14, 14:12:45",200,31.45,31.91,-6290,-1,6291,0,0,92,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-05-05, 10:09:41",100,26.32,25.06,-2632,-1,2633,0,0,-126,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-05-06, 16:31:33",100,24.7,24.7,-2470,-1,2471,0,0,0,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-05-12, 17:07:59",100,25.21,25.2,-2521,-1,2522,0,0,-1,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-05-14, 10:49:47",200,24.63,25.23,-4926,-1,4927,0,0,120,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-06-04, 11:30:32",-54,30.03,30.69,1621.62,-1.042263802,-1971.1,-350.522264,-17.783078687,-35.64,C
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-06-04, 16:07:45",-300,30.45,30.69,9135,-1.7375835,-10606.8,-1473.537584,-13.892385866,-72,C
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-06-11, 10:42:14",200,28.78,27.64,-5756,-1,5757,0,0,-228,O;P
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-06-15, 09:46:51",100,26.9,28.26,-2690,-1,2691,0,0,136,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-06-22, 11:26:05",100,27.39,27.38,-2739,-1,2740,0,0,-1,O
+Trades,Data,Order,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,"2020-07-23, 16:07:24",-200,30.08,30.15,6016,-1.1567536,-6489.51,-474.666754,-7.314369714,-14,C
+Trades,SubTotal,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,,1046,,,-28689.18,-16.499160902,25960.29,-2745.389162,-12.53,-16.84,
+Trades,Total,,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,,,,,,-34639.583,-129.837745276,30583.496701,-4185.924045,,1374.317, 
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,Realized P/L %,MTM P/L,Code
+Trades,Data,Order,Equity and Index Options - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,MU 21JAN22 47.0 C,"2020-05-07, 12:56:17",6,12.1,11.723,-7260,-1.8828,7261.8828,0,0,-226.2,O
+Trades,SubTotal,,Equity and Index Options - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,MU 21JAN22 47.0 C,,6,,,-7260,-1.8828,7261.8828,0,0.00,-226.2,
+Trades,Total,,Equity and Index Options - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,,,,,,-7260,-1.8828,7261.8828,0,,-226.2, 
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,,Proceeds,Comm in USD,,,,MTM in USD,Code
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,USD.CHF,"2020-10-22, 04:35:03","-5,000",0.90635,,4531.75,-2,,,,-4.651975,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,USD.CHF,"2020-10-22, 04:59:38","-7,000",0.90685,,6347.95,-2,,,,-2.654715,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,USD.CHF,"2020-10-28, 09:41:28","-2,700",0.91079063,,2459.1347,-2,,,,0.867641,P
+Trades,SubTotal,,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,USD.CHF,,-14700,,,13338.8347,-6,,,,-6.439049,
+Trades,Total,,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,CHF,,,,,,13338.8347,-6,,,,-6.439049, 
+Trades,Total,,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,,,,,,14693.56095101,-6,,,,-6.439049, 
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-02-04, 12:46:22","-10,000",1.10396,,11039.6,-2,,,,-5.4,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-03-10, 08:49:50","-5,000",1.13855,,5692.75,-2,,,,52.25,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-03-13, 09:32:07","-5,000",1.11085,,5554.25,-2,,,,2.75,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-03-23, 05:37:58",-845,1.06817,,902.60365,-2,,,,-3.65885,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-03-24, 12:27:54","-1,000",1.07994,,1079.94,-2,,,,1.14,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-03-25, 04:23:02","-1,000",1.08175,,1081.75,-2,,,,-6.45,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-03-31, 04:09:01",529,1.09929,,-581.52441,-2,,,,2.27999,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-03-31, 05:01:49",455,1.09809,,-499.63095,-2,,,,2.50705,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-03-31, 10:35:29","-1,234",1.09793,,1354.84562,-2,,,,-6.99678,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-04-01, 13:38:37","-2,500",1.09093,,2727.325,-2,,,,-13.675,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-04-03, 19:56:22",-0.4,1.08045,,0.43218,0,,,,0.00042,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-04-06, 03:35:23","-1,892",1.08181,,2046.78452,-2,,,,4.55972,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-04-16, 03:47:24",-167,1.08651,,181.44717,-2,,,,0.43587,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-04-20, 19:57:38",-0.2,1.08625,,0.21725,0,,,,0.00009,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-05-01, 13:47:48","-2,000",1.09828,,2196.56,-2,,,,0.56,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-05-01, 14:47:30","-1,000",1.09785,,1097.85,-2,,,,-0.15,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-05-05, 10:10:05","-9,881",1.08734,,10744.00654,-2,,,,35.96684,
+Trades,Data,Order,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,"2020-05-07, 19:54:22",-0.106,1.08325,,0.1148245,0,,,,-0.000069,
+Trades,SubTotal,,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EUR.USD,,-40535.706,,,44619.3213945,-30,,,,66.119281,
+Trades,Total,,Forex - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,,,,,,44619.3213945,-30,,,,66.119281, 
+Deposits & Withdrawals,Header,Currency,Settle Date,Description,Amount
+Deposits & Withdrawals,Data,EUR,2020-02-04,Electronic Fund Transfer,10000
+Deposits & Withdrawals,Data,EUR,2020-03-10,Electronic Fund Transfer,5000
+Deposits & Withdrawals,Data,EUR,2020-03-13,Electronic Fund Transfer,5000
+Deposits & Withdrawals,Data,EUR,2020-03-23,Electronic Fund Transfer,2500
+Deposits & Withdrawals,Data,EUR,2020-03-23,Electronic Fund Transfer,10000
+Deposits & Withdrawals,Data,EUR,2020-03-26,Electronic Fund Transfer,5000
+Deposits & Withdrawals,Data,EUR,2020-04-01,Electronic Fund Transfer,2500
+Deposits & Withdrawals,Data,Total,,,40000
+Deposits & Withdrawals,Data,Total in USD,,,43900.75
+Fees,Header,Subtitle,Currency,Date,Description,Amount
+Fees,Data,Other Fees,USD,2020-02-05,D******85:US CONSOLIDATED SNAPSHOT FOR JAN 2020,-0.01
+Fees,Data,Other Fees,USD,2020-02-05,D******85:US CONSOLIDATED SNAPSHOT FOR JAN 2020,0.01
+Fees,Data,Other Fees,USD,2020-03-04,D******85:US CONSOLIDATED SNAPSHOT FOR FEB 2020,-0.06
+Fees,Data,Other Fees,USD,2020-03-04,D******85:US CONSOLIDATED SNAPSHOT FOR FEB 2020,0.06
+Fees,Data,Other Fees,USD,2020-04-03,D******85:US CONSOLIDATED SNAPSHOT FOR MAR 2020,-0.04
+Fees,Data,Other Fees,USD,2020-04-03,D******85:US CONSOLIDATED SNAPSHOT FOR MAR 2020,0.04
+Fees,Data,Other Fees,USD,2020-05-05,D******85:GLOBAL SNAPSHOT FOR APR 2020,-0.06
+Fees,Data,Other Fees,USD,2020-05-05,D******85:GLOBAL SNAPSHOT FOR APR 2020,0.06
+Fees,Data,Other Fees,USD,2020-05-05,D******85:US CONSOLIDATED SNAPSHOT FOR APR 2020,-0.04
+Fees,Data,Other Fees,USD,2020-05-05,D******85:US CONSOLIDATED SNAPSHOT FOR APR 2020,0.04
+Fees,Data,Other Fees,USD,2020-06-03,D******85:US CONSOLIDATED SNAPSHOT FOR MAY 2020,-0.01
+Fees,Data,Other Fees,USD,2020-06-03,D******85:US CONSOLIDATED SNAPSHOT FOR MAY 2020,0.01
+Fees,Data,Other Fees,USD,2020-07-02,D******85:US CONSOLIDATED SNAPSHOT FOR JUN 2020,-0.01
+Fees,Data,Other Fees,USD,2020-07-02,D******85:US CONSOLIDATED SNAPSHOT FOR JUN 2020,0.01
+Fees,Data,Total,,,,0
+Fees,Notes,"Market data is provided by Global Financial Information Services (GmbH). Your local broker collects amounts owed for fees and tax for such data on behalf of Global Financial Information Services (GmbH). Note, you are responsible for any applicable taxes relating to the provision of these services."
+Dividends,Header,Currency,Date,Description,Amount
+Dividends,Data,USD,2020-02-13,AAPL(US0378331005) Cash Dividend USD 0.77 per Share (Ordinary Dividend),0.77
+Dividends,Data,USD,2020-02-26,WRK(US96145D1054) Cash Dividend USD 0.465 per Share (Ordinary Dividend),139.5
+Dividends,Data,USD,2020-03-11,AMAT (US0382221051) Cash Dividend USD 0.21 (Ordinary Dividend),0.21
+Dividends,Data,USD,2020-03-31,EAF(US3843135084) Cash Dividend USD 0.085 per Share (Ordinary Dividend),68
+Dividends,Data,USD,2020-05-28,WRK(US96145D1054) Cash Dividend USD 0.20 per Share (Ordinary Dividend),300
+Dividends,Data,USD,2020-06-30,EAF(US3843135084) Cash Dividend USD 0.01 per Share (Ordinary Dividend),10.91
+Dividends,Data,USD,2020-08-13,SYF(US87165B1035) Cash Dividend USD 0.22 per Share (Ordinary Dividend),88
+Dividends,Data,USD,2020-08-25,WRK(US96145D1054) Cash Dividend USD 0.20 per Share (Ordinary Dividend),269.2
+Dividends,Data,USD,2020-09-30,EAF(US3843135084) Cash Dividend USD 0.01 per Share (Ordinary Dividend),12.91
+Dividends,Data,USD,2020-11-12,SYF(US87165B1035) Cash Dividend USD 0.22 per Share (Ordinary Dividend),110
+Dividends,Data,USD,2020-11-24,WRK(US96145D1054) Cash Dividend USD 0.20 per Share (Ordinary Dividend),269.2
+Dividends,Data,Total,,,1268.7
+Withholding Tax,Header,Currency,Date,Description,Amount,Code
+Withholding Tax,Data,USD,2019-12-31,EAF(US3843135084) Cash Dividend USD 0.085 per Share - US Tax,0.85,
+Withholding Tax,Data,USD,2019-12-31,EAF(US3843135084) Cash Dividend USD 0.085 per Share - US Tax,-0.77,
+Withholding Tax,Data,USD,2020-02-13,AAPL(US0378331005) Cash Dividend USD 0.77 per Share - US Tax,-0.08,
+Withholding Tax,Data,USD,2020-02-26,WRK(US96145D1054) Cash Dividend USD 0.465 per Share - US Tax,-13.95,
+Withholding Tax,Data,USD,2020-03-11,AMAT (US0382221051) Cash Dividend USD 0.21 - US Tax,-0.02,
+Withholding Tax,Data,USD,2020-03-31,EAF(US3843135084) Cash Dividend USD 0.085 per Share - US Tax,-6.8,
+Withholding Tax,Data,USD,2020-05-28,WRK(US96145D1054) Cash Dividend USD 0.20 per Share - US Tax,-30,
+Withholding Tax,Data,USD,2020-06-30,EAF(US3843135084) Cash Dividend USD 0.01 per Share - US Tax,-1.09,
+Withholding Tax,Data,USD,2020-08-13,SYF(US87165B1035) Cash Dividend USD 0.22 per Share - US Tax,-8.8,
+Withholding Tax,Data,USD,2020-08-25,WRK(US96145D1054) Cash Dividend USD 0.20 per Share - US Tax,-26.92,
+Withholding Tax,Data,USD,2020-09-30,EAF(US3843135084) Cash Dividend USD 0.01 per Share - US Tax,-1.29,
+Withholding Tax,Data,USD,2020-11-12,SYF(US87165B1035) Cash Dividend USD 0.22 per Share - US Tax,-11,
+Withholding Tax,Data,USD,2020-11-24,WRK(US96145D1054) Cash Dividend USD 0.20 per Share - US Tax,-26.92,
+Withholding Tax,Data,Total,,,-126.79,
+Interest,Header,Currency,Date,Description,Amount
+Interest,Data,USD,2020-01-06,USD Credit Interest for Dec-2019,4.18
+Interest,Data,USD,2020-02-05,USD Credit Interest for Jan-2020,0.21
+Interest,Data,USD,2020-03-04,USD Credit Interest for Feb-2020,0.11
+Interest,Data,USD,2020-04-03,USD Credit Interest for Mar-2020,0.01
+Interest,Data,Total,,,4.51
+Interest Accruals,Header,Currency,Field Name,Field Value
+Interest Accruals,Data,Base Currency Summary,Starting Accrual Balance,3.33
+Interest Accruals,Data,Base Currency Summary,Interest Accrued,1.18
+Interest Accruals,Data,Base Currency Summary,Accrual Reversal,-4.51
+Interest Accruals,Data,Base Currency Summary,Ending Accrual Balance,0
+Change in Dividend Accruals,Header,Asset Category,Currency,Symbol,Date,Ex Date,Pay Date,Quantity,Tax,Fee,Gross Rate,Gross Amount,Net Amount,Code
+Change in Dividend Accruals,Data,Starting Dividend Accruals in USD,,,,,,,,,,,0,
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AAPL,2020-02-06,2020-02-07,2020-02-13,1,0.08,0,0.77,0.77,0.69,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AAPL,2020-02-13,2020-02-07,2020-02-13,1,-0.08,0,0.77,-0.77,-0.69,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AMAT,2020-02-17,2020-02-18,2020-03-11,1,0.02,0,0.21,0.21,0.19,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,AMAT,2020-03-11,2020-02-18,2020-03-11,1,-0.02,0,0.21,-0.21,-0.19,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,2020-02-26,2020-02-27,2020-03-31,800,6.8,0,0.085,68.01,61.21,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,2020-02-26,2020-02-27,2020-03-31,800,6.8,0,0.085,68,61.2,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,2020-02-26,2020-02-27,2020-03-31,800,-6.8,0,0.085,-68.01,-61.21,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,2020-03-31,2020-02-27,2020-03-31,800,-6.8,0,0.085,-68,-61.2,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,2020-05-27,2020-05-28,2020-06-30,1091,1.09,0,0.01,10.91,9.82,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,2020-06-30,2020-05-28,2020-06-30,1091,-1.09,0,0.01,-10.91,-9.82,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,2020-08-27,2020-08-28,2020-09-30,1291,1.29,0,0.01,12.91,11.62,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,2020-09-30,2020-08-28,2020-09-30,1291,-1.29,0,0.01,-12.91,-11.62,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,EAF,2020-11-26,2020-11-27,2020-12-31,1291,1.29,0,0.01,12.91,11.62,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,2020-04-17,2020-04-20,2020-05-05,4985,0,0,0.75635,3770.41,3770.41,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,2020-04-17,2020-04-20,2020-05-05,4985,0,0,0.75635,3770.4,3770.4,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,2020-04-17,2020-04-20,2020-05-05,4985,0,0,0.75635,-3770.41,-3770.41,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,FCAU,2020-04-17,2020-04-20,2020-05-05,4985,0,0,0.75635,-3770.4,-3770.4,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,SYF,2020-07-30,2020-07-31,2020-08-13,400,8.8,0,0.22,88,79.2,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,SYF,2020-08-13,2020-07-31,2020-08-13,400,-8.8,0,0.22,-88,-79.2,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,SYF,2020-10-29,2020-10-30,2020-11-12,500,11,0,0.22,110,99,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,SYF,2020-11-12,2020-10-30,2020-11-12,500,-11,0,0.22,-110,-99,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,2020-02-12,2020-02-13,2020-02-26,300,13.95,0,0.465,139.51,125.56,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,2020-02-12,2020-02-13,2020-02-26,300,13.95,0,0.465,139.5,125.55,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,2020-02-12,2020-02-13,2020-02-26,300,-13.95,0,0.465,-139.51,-125.56,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,2020-02-26,2020-02-13,2020-02-26,300,-13.95,0,0.465,-139.5,-125.55,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,2020-05-15,2020-05-18,2020-05-28,1500,30,0,0.2,300,270,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,2020-05-28,2020-05-18,2020-05-28,1500,-30,0,0.2,-300,-270,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,2020-08-12,2020-08-13,2020-08-25,1346,26.92,0,0.2,269.2,242.28,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,2020-08-25,2020-08-13,2020-08-25,1346,-26.92,0,0.2,-269.2,-242.28,Re
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,2020-11-11,2020-11-12,2020-11-24,1346,26.92,0,0.2,269.2,242.28,Po
+Change in Dividend Accruals,Data,Stocks - Held with Interactive Brokers (U.K.) Limited carried by Interactive Brokers LLC,USD,WRK,2020-11-24,2020-11-12,2020-11-24,1346,-26.92,0,0.2,-269.2,-242.28,Re
+Change in Dividend Accruals,Data,Total,,,,,,,1.29,0,,12.91,11.62,
+Change in Dividend Accruals,Data,Ending Dividend Accruals in USD,,,,,,,,,,,11.62,
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Security ID,Listing Exch,Multiplier,Type,Code
+Financial Instrument Information,Data,Stocks,AAPL,APPLE INC,265598,US0378331005,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,AAWW,ATLAS AIR WORLDWIDE HOLDINGS,39505341,US0491642056,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,AFYA,AFYA LTD-CLASS A,374970583,KYG011251066,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,AMAT,APPLIED MATERIALS INC,266093,US0382221051,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,AMSz,AMS AG,161789430,AT0000A18XM4,EBS,1,COMMON,
+Financial Instrument Information,Data,Stocks,EAF,GRAFTECH INTERNATIONAL LTD,314376952,US3843135084,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,FCAU,FIAT CHRYSLER AUTOMOBILES NV,169622610,NL0010877643,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,KHC,KRAFT HEINZ CO/THE,199169586,US5007541064,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,KR,KROGER CO,8908,US5010441013,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,LBTYA,LIBERTY GLOBAL PLC-A,129050290,GB00B8W67662,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,LHAd,DEUTSCHE LUFTHANSA-REG,14171,DE0008232125,IBIS,1,COMMON,
+Financial Instrument Information,Data,Stocks,MU,MICRON TECHNOLOGY INC,9939,US5951121038,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,RKT,ROCKET COS INC-CLASS A,438058842,US77311W1018,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,STNE,STONECO LTD-A,339001919,KYG851581069,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,SYF,SYNCHRONY FINANCIAL,162231797,US87165B1035,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,TEGd,TAG IMMOBILIEN AG,13892013,DE0008303504,IBIS,1,COMMON,
+Financial Instrument Information,Data,Stocks,TMQ,TRILOGY METALS INC,247231775,CA89621C1059,AMEX,1,COMMON,
+Financial Instrument Information,Data,Stocks,WRK,WESTROCK CO,198032496,US96145D1054,NYSE,1,COMMON,
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Listing Exch,Multiplier,Expiry,Delivery Month,Type,Strike,Code
+Financial Instrument Information,Data,Equity and Index Options,MU    220121C00047000,MU 21JAN22 47.0 C,384974823,CBOE,100,2022-01-21,2022-01,C,47,
+Financial Instrument Information,Data,Equity and Index Options,TEVA  210115C00022000,TEVA 15JAN21 22.0 C,333655976,CBOE,100,2021-01-15,2021-01,C,22,
+Codes,Header,Code,Meaning,Code (Cont.),Meaning (Cont.)
+Codes,Data,A,Assignment
+Codes,Data,ADR,ADR Fee Accrual
+Codes,Data,AEx,Automatic exercise for dividend-related recommendation.
+Codes,Data,Adj,Adjustment
+Codes,Data,Al,Allocation
+Codes,Data,Aw,Away Trade
+Codes,Data,B,Automatic Buy-in
+Codes,Data,Bo,Direct Borrow
+Codes,Data,C,Closing Trade
+Codes,Data,CD,Cash Delivery
+Codes,Data,CP,Complex Position
+Codes,Data,Ca,Cancelled
+Codes,Data,Co,Corrected Trade
+Codes,Data,Cx,Part or all of this transaction was a Crossing executed as dual agent by IB for two IB customers
+Codes,Data,ETF,ETF Creation/Redemption
+Codes,Data,Ep,Resulted from an Expired Position
+Codes,Data,Ex,Exercise
+Codes,Data,FP,IB acted as principal for the fractional share portion of this trade
+Codes,Data,FPA,IB acted as principal for the fractional share portion and as agent for the whole share portion of this trade
+Codes,Data,G,Trade in Guaranteed Account Segment
+Codes,Data,HC,Highest Cost tax basis election
+Codes,Data,HFI,Investment Transferred to Hedge Fund
+Codes,Data,HFR,Redemption from Hedge Fund
+Codes,Data,I,Internal Transfer
+Codes,Data,IA,This transaction was executed against an IB affiliate
+Codes,Data,INV,Investment Transfer from Investor
+Codes,Data,IPO,This transaction was executed as part of an IPO in which IB was a member of the selling group and is classified as a Principal trade.
+Codes,Data,L,Ordered by IB (Margin Violation)
+Codes,Data,LD,Adjusted by Loss Disallowed from Wash Sale
+Codes,Data,LI,"Last In, First Out (LIFO) tax basis election"
+Codes,Data,LT,Long Term P/L
+Codes,Data,Lo,Direct Loan
+Codes,Data,M,Entered manually by IB
+Codes,Data,MEx,Manual exercise for dividend-related recommendation.
+Codes,Data,ML,Maximize Losses tax basis election
+Codes,Data,MLG,Maximize Long Term Gain tax basis election
+Codes,Data,MLL,Maximize Long Term Loss tax basis election
+Codes,Data,MSG,Maximize Short Term Gain tax basis election
+Codes,Data,MSL,Maximize Short Term Loss tax basis election
+Codes,Data,O,Opening Trade
+Codes,Data,P,Partial Execution
+Codes,Data,PI,Price Improvement
+Codes,Data,Po,Interest or Dividend Accrual Posting
+Codes,Data,Pr,Part or all of this transaction was executed by the Exchange as a Crossing by IB against an IB affiliate and is therefore classified as a Principal and not an agency trade
+Codes,Data,R,Dividend Reinvestment
+Codes,Data,RED,Redemption to Investor
+Codes,Data,RP,IB acted as riskless principal for the fractional share portion of this trade
+Codes,Data,RPA,IB acted as riskless principal for the fractional share portion and as agent for the whole share portion of this trade
+Codes,Data,Re,Interest or Dividend Accrual Reversal
+Codes,Data,Ri,Reimbursement
+Codes,Data,SI,This order was solicited by Interactive Brokers
+Codes,Data,SL,Specific Lot tax basis election
+Codes,Data,SO,This order was marked as solicited by your Introducing Broker
+Codes,Data,SS,Customer designated this trade for shortened settlement and so is subject to execution at prices above the prevailing market
+Codes,Data,ST,Short Term P/L
+Codes,Data,SY,Positions that may be eligible for Stock Yield. Potential for additional annualized income of 176.12 USD
+Codes,Data,T,Transfer
+Codes,Data,Un,Unvested shares from stock grant
+Notes/Legal Notes,Header,Type,Note
+Notes/Legal Notes,Data,General:,"Quantities preceded by a ""-"" sign indicate sell transactions. Other transactions are purchases. In case of partial executions, commissions are charged on the total quantity executed on the original order. The commission is displayed on the first partial execution only. Trade execution times are displayed in Eastern Time."
+Notes/Legal Notes,Data,General:,"Please promptly report any inaccuracy or discrepancy in this statement, or in your account. Contact the IB Customer Service Department in writing using the form available on the IB website."
+Notes/Legal Notes,Data,"Transactions in Stocks, Bonds, Mutual Funds, Exchange Traded Commodity Futures and Options and Foreign Currency:","Interactive Brokers (U.K.) Ltd. (""IB UK"") acts as agent in transactions in securities, exchange-traded commodity futures and options, and foreign currencies. For transactions in these products, IB UK.s U.S. affiliate Interactive Brokers LLC (""IB LLC"") provides trade execution, Client Money and Custody Services. IB LLC holds Customer money, securities, or other assets under the rules of the U.S. Securities and Exchange Commission (""SEC"") and the U.S. Commodity Futures Trading Commission (""CFTC""), as applicable. For assets held with IB LLC, different practices for the separate identification of Customer's money, securities, and assets may apply and, in the event of a default of IB LLC, Customer's money, securities and assets may be treated differently from the position that would apply if the money, securities or assets were held in the United Kingdom. IB LLC is a member of the U.S. Securities Investor Protection Corporation (""SIPC""). As with all securities firms, SIPC coverage provides protection against failure of a broker-dealer, not against loss of market value of securities.  Futures and options on futures are not covered by SIPC. A financial statement of Interactive Brokers LLC is available for your personal inspection at www.interactivebrokers.com or at its offices, or a copy of it will be mailed upon your written request."
+Notes/Legal Notes,Data,"Transactions in Stocks, Bonds, Mutual Funds, Exchange Traded Commodity Futures and Options and Foreign Currency:","Stock transactions settle on the trade date plus three days, except for transactions on XETRA, which settle on trade date + 2 business days. Securities options settle on the trade date plus one day."
+Notes/Legal Notes,Data,"Transactions in Stocks, Bonds, Mutual Funds, Exchange Traded Commodity Futures and Options and Foreign Currency:",Applicable commodity Regulatory Fees for your transactions is available on the IB website at http://www.interactivebrokers.com/en/accounts/fees/exchangeAndRegulatoryFees.php.
+Notes/Legal Notes,Data,"Transactions in Stocks, Bonds, Mutual Funds, Exchange Traded Commodity Futures and Options and Foreign Currency:","Call features for bonds or preferred stocks may affect the yield. For zero coupon, compound interest and multiplier securities, there are no periodic payments and securities may be callable below maturity value without notice to holder unless registered. For asset-backed securities, the actual yield may vary depending on the speed at which the underlying note is pre-paid. For additional information regarding bond yield, please contact the IB Help Desk at: help@interactivebrokers.com. If this debt security is unrated by a nationally recognized statistical rating organization, it may pose a high risk of default. You should consult a financial advisor to determine whether unrated bonds are appropriate for your portfolio in light of your goals and your financial circumstances. Fees charged by bond trading centers are included in the cost of bond transactions."
+Notes/Legal Notes,Data,"Transactions in Stocks, Bonds, Mutual Funds, Exchange Traded Commodity Futures and Options and Foreign Currency:","IB LLC receives compensation from fund companies in connection with the purchase and holding of fund shares by customers of IB LLC. Such compensation includes, but is not limited to, Rule 12b-1 fees which are paid out of the funds assets. The source and amount of any remuneration received by IB LLC in connection with a transaction will be furnished upon written request of the customer."
+Notes/Legal Notes,Data,"Transactions in Stocks, Bonds, Mutual Funds, Exchange Traded Commodity Futures and Options and Foreign Currency:","IB LLC acts as agent or riskless principal in OTC foreign currency transactions. Such transactions are executed against an IB affiliate or a third party, which acts as principal in such transactions and may have a long or short position and may have profited or lost in connection with the transaction. OTC foreign currency transactions executed by Customer through IB are not regulated or overseen by the SEC or the CFTC."
+Notes/Legal Notes,Data,"Transactions in Stocks, Bonds, Mutual Funds, Exchange Traded Commodity Futures and Options and Foreign Currency:","Trades marked with the exchange indicator of TMBR were effected by IB LLC as agent through a market making affiliate, which acted as principal in the transaction and may have a long or short position in the security and may have profited or lost in connection with the transaction."
+Notes/Legal Notes,Data,"Transactions in Stocks, Bonds, Mutual Funds, Exchange Traded Commodity Futures and Options and Foreign Currency:","All VWAP trades are effected pursuant to an average price formula based on a reference price provided by a third-party data provider. Additional information and reference prices are available upon request. IB LLC, as agent, effects VWAP transactions through a market making affiliate, which acts as principal in such transactions and may have a long or short position in the security and may have profited or lost in connection with the transaction."
+Notes/Legal Notes,Data,"Transactions in Stocks, Bonds, Mutual Funds, Exchange Traded Commodity Futures and Options and Foreign Currency:","IB LLC accepts liquidity rebates from Alternative Trading Systems and exchanges for certain orders. IB LLC receives payment for some option orders pursuant to exchange-mandated marketing fee programs or other arrangements. IB LLC does not generally accept payment for order flow for security futures orders. The source and nature of any compensation received by IB LLC in connection with any transaction is available upon written request of the customer. For further information, check the IB website or email help@interactivebrokers.com."
+Notes/Legal Notes,Data,"Transactions in Stocks, Bonds, Mutual Funds, Exchange Traded Commodity Futures and Options and Foreign Currency:","For security futures trades, if not already indicated on this statement, information about the time of any transaction, the identity of the counterparty to the transaction, and whether IB is acting as agent or principal, as agent for the counterparty, as agent for both parties to the contract, or as principal, and if acting as principal, whether the transaction was a block transaction or an exchange for physicals transaction, will be available upon written request of the customer."
+Notes/Legal Notes,Data,"Over-the-Counter Transactions in Contracts for Differences (""CFDs"") and Metals, Including Unallocated Gold:","As a courtesy, we have included information regarding trades you executed directly with IB UK, including all CFD trades. This information was provided to IB LLC by IB UK for your convenience so that we could include it in your Statement. We have also provided you with the related Legal Notes IB UK asked us to include."
+Notes/Legal Notes,Data,"Over-the-Counter Transactions in Contracts for Differences (""CFDs"") and Metals, Including Unallocated Gold:","IB UK acts as principal or riskless principal in Over-the-Counter (""OTC"") transactions involving CFDs and metals, including unallocated gold. Your transactions are executed against IB UK, which may have a long or short position and may have profited or lost in connection with the transaction, or may have hedged it against an affiliate or third party who may have profited or lost."
+Notes/Legal Notes,Data,"Over-the-Counter Transactions in Contracts for Differences (""CFDs"") and Metals, Including Unallocated Gold:","For OTC transactions in CFDs and metals, including unallocated gold, IB UK provides Client Money and Custody Services directly, subject to the rules of the U.K. Financial Conduct Authority. IB UK is not a member of the U.S. Securities Investor Protection Corporation (""SIPC"") and your assets held by IB UK in connection with OTC transactions in CFDs and metals are not protected by SIPC."
+Notes/Legal Notes,Data,"Over-the-Counter Transactions in Contracts for Differences (""CFDs"") and Metals, Including Unallocated Gold:","OTC products offered by IB UK such as CFDs and metals are contracts with IB UK as your counterparty, and are not traded on a regulated exchange and are not cleared or settled on a central clearinghouse."
+Notes/Legal Notes,Data,"Over-the-Counter Transactions in Contracts for Differences (""CFDs"") and Metals, Including Unallocated Gold:","A CFD is to secure a profit or avoid a loss by reference to fluctuations in the price of the Underlying Product, rather than by taking delivery of any Underlying Product. No CFD transaction shall confer on you any right, voting right, title or interest in any Underlying Product or entitle or oblige you to acquire, receive, hold, vote, deliver, dispose of or participate directly in any corporate action of any Underlying. All transactions relating to CFDs shall be settled by payment of cash and shall settle in the same settlement period as the Underlying Product, unless otherwise specified."
+Notes/Legal Notes,Data,"Over-the-Counter Transactions in Contracts for Differences (""CFDs"") and Metals, Including Unallocated Gold:",OTC metals such as unallocated gold are not "MiFID" regulated instruments. The Markets in Financial Instruments Directive is an E.U. law that regulates investment services across the E.U. member states.
+Notes/Legal Notes,Data,"Over-the-Counter Transactions in Contracts for Differences (""CFDs"") and Metals, Including Unallocated Gold:","Transactions in metals, including unallocated gold, shall be settled by payment of cash and shall generally settle in two days (taking into account the governmental and bank holidays in the relevant markets) or in the customary settlement period used in the interbank market. Arrangement for delivery of metals may be available in accordance with the policies described on the IB UK website and may involve additional charges."
+Notes/Legal Notes,Data,"Over-the-Counter Transactions in Contracts for Differences (""CFDs"") and Metals, Including Unallocated Gold:",IB UK is a participant in the UK Financial Ombudsman Service ("FOS"). Disputes may be submitted to the FOS for mediation. The FOS will only consider complaints for regulated and consumer credit activities and may therefore not consider complaints in respect of metals and spot foreign currency transactions. The FOS is provided free of charge to complainants. The FOS.s decisions are based on what is fair and reasonable and are binding on firms if a complainant accepts them.
+Notes/Legal Notes,Data,"Over-the-Counter Transactions in Contracts for Differences (""CFDs"") and Metals, Including Unallocated Gold:",IB UK is a participant in the UK Financial Services Compensation Scheme ("FSCS"). You may be entitled to compensation from the scheme in the unlikely event we cannot meet our obligations. This depends on the type of business and the circumstances of the claim. FSCS cover is restricted to designated investments and does not cover investments in metals and spot foreign currency. Further information about compensation is available from the UK Financial Services Compensation Scheme at http://www.fscs.org.uk.

@@ -1,0 +1,36 @@
+{
+  "name": "ib-trade-analyzer",
+  "version": "0.0.1",
+  "description": "A library used for parsing activity reports from Interactive Brokers and performing various operations on it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deyanginev/ib-trade-analyzer.git"
+  },
+  "keywords": [
+    "Interactive",
+    "Brokers",
+    "report",
+    "trading",
+    "activity",
+    "report",
+    "taxes"
+  ],
+  "author": "Deyan Ginev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deyanginev/ib-trade-analyzer/issues"
+  },
+  "homepage": "https://github.com/deyanginev/ib-trade-analyzer#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.165",
+    "csv-parse": "^4.14.1",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.10"
+  }
+}
